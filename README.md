@@ -43,9 +43,13 @@ AI に心のようなものを宿せないか考えたりしています。
 AI、LLM エージェント、開発基盤、Python、Unreal Engine など、
 自分の開発で生まれた技術を OSS として公開しています。
 
+- [kiarina-python](https://github.com/kiarina/kiarina-python) — Python アプリケーションと LLM エージェントを構築するためのパッケージ群
+- [kiari](https://github.com/kiarina/kiari) — クオリア指向 LLM エージェントの開発・実験用 CLI
 - [kiapi](https://github.com/kiarina/kiapi) — Apple Silicon Mac を LLM エージェント向けの API サーバーに
-- [mage-vl-mlx](https://github.com/kiarina/mage-vl-mlx) — Mage-VL の Apple Silicon 向け MLX 統合
+- [kimcp](https://github.com/kiarina/kimcp) — MCP サーバーとツールをまとめて扱うためのゲートウェイ
 - [chrome-bridge](https://github.com/kiarina/chrome-bridge) — LLM エージェントから Chrome を操作するための基盤
+- [mage-vl-mlx](https://github.com/kiarina/mage-vl-mlx) — Mage-VL の Apple Silicon 向け MLX 統合
+- [pydantic-settings-manager](https://github.com/kiarina/pydantic-settings-manager) — 分割した Pydantic Settings をアプリケーション全体で統合するライブラリ
 - [crystal-architecture](https://github.com/kiarina/crystal-architecture) — Python のモジュール設計ガイドライン
 
 ---
