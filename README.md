@@ -40,10 +40,11 @@ AI に心のようなものを宿せないか考えたりしています。
 
 ## Open Source
 
-AI、LLM エージェント、開発基盤、Python、Unreal Engine など、
+AI、LLM エージェント、開発基盤、Python、Flutter、Unreal Engine など、
 自分の開発で生まれた技術を OSS として公開しています。
 
 - [kiarina-python](https://github.com/kiarina/kiarina-python) — Python アプリケーションと LLM エージェントを構築するためのパッケージ群
+- [flutter_vrm](https://github.com/kiarina/flutter_vrm) — Flutter で VRM 1.0 のアバターを表示し、動かすためのパッケージ（[pub.dev](https://pub.dev/packages/flutter_vrm)）
 - [kiari](https://github.com/kiarina/kiari) — クオリア指向 LLM エージェントの開発・実験用 CLI
 - [kiapi](https://github.com/kiarina/kiapi) — Apple Silicon Mac を LLM エージェント向けの API サーバーに
 - [kimcp](https://github.com/kiarina/kimcp) — MCP サーバーとツールをまとめて扱うためのゲートウェイ
