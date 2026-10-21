@@ -47,7 +47,7 @@ AI、LLM エージェント、開発基盤、Python、Flutter、Unreal Engine �
 - [flutter_vrm](https://github.com/kiarina/flutter_vrm) — Flutter で VRM 1.0 のアバターを表示し、動かすためのパッケージ（[pub.dev](https://pub.dev/packages/flutter_vrm)）
 - [pcm_asr](https://github.com/kiarina/pcm_asr) — 確定した PCM の発話区間を、OS の音声認識（Windows は whisper.cpp）で文字にする Flutter プラグイン（[pub.dev](https://pub.dev/packages/pcm_asr)）
 - [tts_pcm](https://github.com/kiarina/tts_pcm) — OS の音声合成の声を、鳴らさずに PCM で受け取る Flutter プラグイン（[pub.dev](https://pub.dev/packages/tts_pcm)）
-- [meanvc2_onnx](https://github.com/kiarina/meanvc2_onnx) — MeanVC2 のストリーミング声質変換を ONNX Runtime で動かす Flutter パッケージ（[Hugging Face](https://huggingface.co/kiarina/MeanVC2-ONNX)）
+- [meanvc2_onnx](https://github.com/kiarina/meanvc2_onnx) — MeanVC2 のストリーミング声質変換を ONNX Runtime で動かす Flutter パッケージ（[pub.dev](https://pub.dev/packages/meanvc2_onnx) · [Hugging Face](https://huggingface.co/kiarina/MeanVC2-ONNX)）
 - [kiari](https://github.com/kiarina/kiari) — クオリア指向 LLM エージェントの開発・実験用 CLI
 - [kiapi](https://github.com/kiarina/kiapi) — Apple Silicon Mac を LLM エージェント向けの API サーバーに
 - [kimcp](https://github.com/kiarina/kimcp) — MCP サーバーとツールをまとめて扱うためのゲートウェイ
